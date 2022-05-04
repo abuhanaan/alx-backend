@@ -7,3 +7,4 @@
 - [Cache replacement policies - LRU](https://en.wikipedia.org/wiki/Cache_replacement_policies)
 - [Cache replacement policies - MRU](https://en.wikipedia.org/wiki/Cache_replacement_policies)
 - [Cache replacement policies - LFU](https://en.wikipedia.org/wiki/Cache_replacement_policies)
+- [Python OrderedDict](https://www.journaldev.com/21807/python-ordereddict)
